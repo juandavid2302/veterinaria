@@ -6,7 +6,7 @@ body {
     padding-top: 10px;
 }
 #titulo{
-    background-color: rgba(21, 17, 211, 0.616);
+    background-color: rgba(63, 211, 231, 0.877);
     border-radius: 10px;
     padding-top: 10px;
     text-align: center;
@@ -38,7 +38,7 @@ h3{
     border-radius: 20px;
 }
 #barraMenu{
-    background-color: rgb(1, 3, 3);
+    background-color: rgb(104, 142, 185);
     border-radius: 0 0 10px 10px;
 }
 
@@ -73,7 +73,7 @@ hr.new5{
 
 #formulario{
     border-radius: 15px;
-    background: rgba(30, 206, 30, 0.486);
+    background: rgba(22, 96, 214, 0.486);
     padding: 10px;
     margin-left: 1.7em;
 }
@@ -123,7 +123,7 @@ hr.new5{
 #piedepagina{
     margin: 0.1em auto;
     padding-top: 10px;
-    background-color: rgb(9, 61, 61);
+    background-color: rgb(20, 230, 230);
     border-radius: 0 0 10px 10px;
 }
 #piedepagina p{
